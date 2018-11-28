@@ -1,2 +1,2 @@
 # lirikplus
-js for
+js for liriklaguplus.com
