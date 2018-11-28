@@ -1,0 +1,38 @@
+{
+  "name": "liriklaguplus.com",
+  "short_name": "Lirik Plus",
+  "start_url": "https://liriklaguplus.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#dddddd",
+  "description": "Kumpulan Lirik Lagu Plus info musik terbaru dan populer. Lirik lagu Indonesia dan barat lengkap dengan info menarik terkait lagu dan musik",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s48/logo-192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s72/logo-192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s96/logo-192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s144/logo-192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s168/logo-192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-6GP80sCDzo4/Ww20EggSC1I/AAAAAAAAU64/kUuwimhk1zsVieUtFdoWtu5PEveDsjIswCLcBGAs/s1600/logo-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HY7LXY-2HMk/Ww20of4ZuLI/AAAAAAAAU7A/MhRHausxdJspLYGTbgG7hOZ1OJp10A0DgCLcBGAs/s1600/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
